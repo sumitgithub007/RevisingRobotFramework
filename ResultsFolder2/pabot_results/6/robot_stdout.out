@@ -1,0 +1,66 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.Part16 GetLinks                                                     
+==============================================================================
+Testcase FOR Link count                                               "xxxxxxxxxxxxxxxxxxxx"+25
+"firstttt"+25
+"sumitttttttttt"+xpath://a
+https://mail.google.com/mail/&ogbl
+"sumitttttttttt"+xpath://a
+https://www.google.com/imghp?hl=en&ogbl
+"sumitttttttttt"+xpath://a
+https://www.google.co.in/intl/en/about/products
+"sumitttttttttt"+xpath://a
+https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ
+"sumitttttttttt"+xpath://a
+https://www.google.com/#
+"sumitttttttttt"+xpath://a
+https://www.google.com/setprefs?sig=0_KZ5wHD4HTdm8imqLT5EbStg65qI%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwjcxe2Y1eiAAxVMq1YBHcz0DY0Q2ZgBCBE
+"sumitttttttttt"+xpath://a
+https://www.google.com/setprefs?sig=0_KZ5wHD4HTdm8imqLT5EbStg65qI%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwjcxe2Y1eiAAxVMq1YBHcz0DY0Q2ZgBCBI
+"sumitttttttttt"+xpath://a
+https://www.google.com/setprefs?sig=0_KZ5wHD4HTdm8imqLT5EbStg65qI%3D&hl=te&source=homepage&sa=X&ved=0ahUKEwjcxe2Y1eiAAxVMq1YBHcz0DY0Q2ZgBCBM
+"sumitttttttttt"+xpath://a
+https://www.google.com/setprefs?sig=0_KZ5wHD4HTdm8imqLT5EbStg65qI%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwjcxe2Y1eiAAxVMq1YBHcz0DY0Q2ZgBCBQ
+"sumitttttttttt"+xpath://a
+https://www.google.com/setprefs?sig=0_KZ5wHD4HTdm8imqLT5EbStg65qI%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwjcxe2Y1eiAAxVMq1YBHcz0DY0Q2ZgBCBU
+"sumitttttttttt"+xpath://a
+https://www.google.com/setprefs?sig=0_KZ5wHD4HTdm8imqLT5EbStg65qI%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwjcxe2Y1eiAAxVMq1YBHcz0DY0Q2ZgBCBY
+"sumitttttttttt"+xpath://a
+https://www.google.com/setprefs?sig=0_KZ5wHD4HTdm8imqLT5EbStg65qI%3D&hl=kn&source=homepage&sa=X&ved=0ahUKEwjcxe2Y1eiAAxVMq1YBHcz0DY0Q2ZgBCBc
+"sumitttttttttt"+xpath://a
+https://www.google.com/setprefs?sig=0_KZ5wHD4HTdm8imqLT5EbStg65qI%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwjcxe2Y1eiAAxVMq1YBHcz0DY0Q2ZgBCBg
+"sumitttttttttt"+xpath://a
+https://www.google.com/setprefs?sig=0_KZ5wHD4HTdm8imqLT5EbStg65qI%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwjcxe2Y1eiAAxVMq1YBHcz0DY0Q2ZgBCBk
+"sumitttttttttt"+xpath://a
+https://about.google/?utm_source=google-IN&utm_medium=referral&utm_campaign=hp-footer&fg=1
+"sumitttttttttt"+xpath://a
+https://www.google.com/intl/en_in/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1
+"sumitttttttttt"+xpath://a
+https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+"sumitttttttttt"+xpath://a
+https://google.com/search/howsearchworks/?fg=1
+"sumitttttttttt"+xpath://a
+https://policies.google.com/privacy?hl=en-IN&fg=1
+"sumitttttttttt"+xpath://a
+https://policies.google.com/terms?hl=en-IN&fg=1
+"sumitttttttttt"+xpath://a
+https://www.google.com/preferences?hl=en-IN&fg=1
+"sumitttttttttt"+xpath://a
+https://www.google.com/advanced_search?hl=en-IN&fg=1
+"sumitttttttttt"+xpath://a
+https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1&cctld=com
+"sumitttttttttt"+xpath://a
+https://www.google.com/history/optout?hl=en-IN&fg=1
+"sumitttttttttt"+xpath://a
+https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1
+| PASS |
+------------------------------------------------------------------------------
+TestCases.Part16 GetLinks                                             | PASS |
+1 test, 1 passed, 0 failed
+==============================================================================
+TestCases                                                             | PASS |
+1 test, 1 passed, 0 failed
+==============================================================================
+Output:  C:\Users\goyal\PycharmProjects\pythonProject2\ResultsFolder2\pabot_results\6\output.xml

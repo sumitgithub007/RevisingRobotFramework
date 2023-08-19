@@ -1,0 +1,23 @@
+datasources:e19afa449b34f5edbd258071789e93ae7cfade4c
+commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
+suitesfrom:no-suites-from-option
+file:fb378ed6a06d69a8a59e1eed95bbec8b4ffa07e3
+--suite TestCases.ExcelDataRead
+--suite TestCases.Part11 Screenshots
+--suite TestCases.Part12 MouseActions
+--suite TestCases.Part13 UserKeywords
+--suite TestCases.Part14 Scrolling
+--suite TestCases.Part15 ForLoops
+--suite TestCases.Part16 GetLinks
+--suite TestCases.Part21 SetupTearDown
+--suite TestCases.Part3 InputBox
+--suite TestCases.Part4 Radio Checkbox
+--suite TestCases.Part5 SelectOptionsFromDropDowns
+--suite TestCases.Part6 waits
+--suite TestCases.Part7 single multiple Browsers
+--suite TestCases.Part8 Alerts
+--suite TestCases.Part9 Amazon
+--suite TestCases.Part9 Tabbed Windows
+--suite TestCases.Sample
+--suite TestCases.TC1
+--suite TestCases.TableHandle
