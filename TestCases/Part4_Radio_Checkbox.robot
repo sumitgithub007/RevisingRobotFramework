@@ -19,7 +19,7 @@ Test Radio box and checkbox
 
     open browser    ${url}    ${browser}    options=add_experimental_option("detach",${True})
     maximize browser window
-     set selenium speed    2seconds
+    set selenium speed    2seconds
     Select Frame    css:#iframeResult
     select radio button   fav_language    css
 
