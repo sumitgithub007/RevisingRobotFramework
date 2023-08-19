@@ -25,7 +25,7 @@ Test selenium waits
    # set selenium timeout    20 seconds
    # wait until page contains    Refgister     #default 5 seconds
    # set selenium implicit wait    10 seconds
-    wait until page contains element    xpath://*[text()='Newskletter']
+    wait until page contains element    xpath://*[text()='Newsletter']
     select radio button    Gender     M
     input text    name:FikrstName     David
     input text    name:LastName     Goyal

@@ -25,6 +25,6 @@ Test Radio box and checkbox
 
     #click element    xpath://input[@id='css']
     unselect frame
-    select checkbox   #webelementdedo
+   # select checkbox   #webelementdedo
 
 

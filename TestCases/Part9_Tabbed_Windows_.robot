@@ -16,7 +16,7 @@ Testcase2 MultipleTabs
 Open Browser and Test new window
     open browser   ${url}  ${browser}     options=add_experimental_option("detach",${True})
     click link     //*[contains(@href,'sele')]
-    ${handles}=    Get Window Handles
+     ${handles}=    Get Window Handles
    ${main_window}=    get window identifiers
     Log    Main Window Handle: ${main_window}
     FOR    ${handle}    IN    @{handles}
