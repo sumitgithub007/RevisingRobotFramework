@@ -1,0 +1,28 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.Part12 MouseActions                                                 
+==============================================================================
+TestCase1 screenshots                                                   
+  Traceback (most recent call last):
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part12_MouseActions.robot:9
+    T:  TestCase1 screenshots    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part12_MouseActions.robot:10
+       Open Browser and MouseHover    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part12_MouseActions.robot:14
+      Open Browser    https://www.google.com    ${browser}
+      |  ${browser} = chrome (str)
+______________________________________________________________________________
+| FAIL |
+NoSuchDriverException: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+------------------------------------------------------------------------------
+TestCases.Part12 MouseActions                                         | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+TestCases                                                             | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\goyal\PycharmProjects\pythonProject2\pabot_results\2\output.xml

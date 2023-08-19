@@ -1,0 +1,31 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.Part13 UserKeywords                                                 
+==============================================================================
+TestCase1 MultipleBrowsers                                              
+  Traceback (most recent call last):
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part13_UserKeywords.robot:13
+    T:  TestCase1 MultipleBrowsers    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part13_UserKeywords.robot:14
+      Open Browser and Test InputBox on Website    ${url}    ${browser}
+      |  ${url} = https://demo.nopcommerce.com (str)
+      |  ${browser} = chrome (str)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\ResourcesDir\resources.robot:14
+      Open Browser    ${url}    ${browser}
+      |  ${url} = https://demo.nopcommerce.com (str)
+      |  ${browser} = chrome (str)
+______________________________________________________________________________
+| FAIL |
+NoSuchDriverException: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+------------------------------------------------------------------------------
+TestCases.Part13 UserKeywords                                         | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+TestCases                                                             | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\goyal\PycharmProjects\pythonProject2\pabot_results\3\output.xml

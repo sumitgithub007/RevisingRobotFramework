@@ -1,0 +1,28 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.Part6 waits                                                         
+==============================================================================
+TestCase1                                                             0 seconds
+  
+  Traceback (most recent call last):
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part6_waits.robot:13
+    T:  TestCase1    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part6_waits.robot:14
+      Test selenium waits    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part6_waits.robot:30
+      Input Text    name:FikrstName    David
+______________________________________________________________________________
+| FAIL |
+Element with locator 'name:FikrstName' not found.
+------------------------------------------------------------------------------
+TestCases.Part6 waits                                                 | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+TestCases                                                             | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\goyal\PycharmProjects\pythonProject2\ResultsFolder2\pabot_results\11\output.xml

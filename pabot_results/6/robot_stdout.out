@@ -1,0 +1,32 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.Part16 GetLinks                                                     
+==============================================================================
+Testcase FOR Link count                                                 
+  Traceback (most recent call last):
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part16_GetLinks.robot:13
+    T:  Testcase FOR Link count    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part16_GetLinks.robot:14
+      open the browser google    ${url}    ${browser}
+      |  ${url} = https://www.google.com (str)
+      |  ${browser} = chrome (str)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\ResourcesDir\resources.robot:49
+      Open Browser    ${url}    ${browser}    options=add_experimental_option("detach",${True})
+      |  ${url} = https://www.google.com (str)
+      |  ${browser} = chrome (str)
+      |  options=add_experimental_option("detach",${True}) = options=add_experimental_option("detach",True) (str)
+______________________________________________________________________________
+| FAIL |
+NoSuchDriverException: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+------------------------------------------------------------------------------
+TestCases.Part16 GetLinks                                             | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+TestCases                                                             | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\goyal\PycharmProjects\pythonProject2\pabot_results\6\output.xml

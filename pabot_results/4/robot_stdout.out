@@ -1,0 +1,32 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.Part14 Scrolling                                                    
+==============================================================================
+Testcase scroll functionality                                           
+  Traceback (most recent call last):
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part14_Scrolling.robot:13
+    T:  Testcase scroll functionality    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part14_Scrolling.robot:14
+      Open the browser Testing    ${url}    ${browser}
+      |  ${url} = https://www.countries-ofthe-world.com/flags-of-the-world.html (str)
+      |  ${browser} = chrome (str)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\ResourcesDir\resources.robot:22
+      Open Browser    ${url}    ${browser}    options=add_experimental_option("detach",${True})
+      |  ${url} = https://www.countries-ofthe-world.com/flags-of-the-world.html (str)
+      |  ${browser} = chrome (str)
+      |  options=add_experimental_option("detach",${True}) = options=add_experimental_option("detach",True) (str)
+______________________________________________________________________________
+| FAIL |
+NoSuchDriverException: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+------------------------------------------------------------------------------
+TestCases.Part14 Scrolling                                            | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+TestCases                                                             | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\goyal\PycharmProjects\pythonProject2\pabot_results\4\output.xml

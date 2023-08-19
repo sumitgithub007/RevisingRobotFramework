@@ -1,0 +1,30 @@
+==============================================================================
+TestCases                                                                     
+==============================================================================
+TestCases.Part3 InputBox                                                      
+==============================================================================
+TestCase1                                                               
+  Traceback (most recent call last):
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part3_InputBox.robot:13
+    T:  TestCase1    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part3_InputBox.robot:14
+      Open Browser and Test InputBox on Website    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\goyal\PycharmProjects\pythonProject2\TestCases\Part3_InputBox.robot:18
+      Open Browser    ${url}    ${browser}    options=add_experimental_option("detach",${True})
+      |  ${url} = https://demo.nopcommerce.com (str)
+      |  ${browser} = chrome (str)
+      |  options=add_experimental_option("detach",${True}) = options=add_experimental_option("detach",True) (str)
+______________________________________________________________________________
+| FAIL |
+Execution terminated by signal
+------------------------------------------------------------------------------
+TestCases.Part3 InputBox                                              | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+TestCases                                                             | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\goyal\PycharmProjects\pythonProject2\pabot_results\8\output.xml
